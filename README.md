@@ -1,7 +1,7 @@
 # Labile-Canvas-Effect
 Arkaplanınıza hoş bir görüntü sunar.
 
-[Demo](http://codepen.io/coder2317/pen/kXRVdg)
+[Demo](http://codepen.io/coder2317/full/kXRVdg/)
 
 ***Nasıl Kullanılır ?*** 
 
