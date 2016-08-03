@@ -1,6 +1,8 @@
 # Labile-Canvas-Effect
 Arkaplanınıza hoş bir görüntü sunar.
 
+[Demo](http://codepen.io/coder2317/pen/kXRVdg)
+
 ***Nasıl Kullanılır ?*** 
 
 * Effect.js dosyasını HTML dosyanıza dahil ediniz.
